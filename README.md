@@ -148,3 +148,12 @@ This project achieved its technical objective: to build and validate a statistic
 ## Final Thoughts
 
 This project illustrates the full lifecycle of quantitative strategy development—from hypothesis generation to production-grade implementation. Its ultimate lesson is not about signal generation, but about robust system design. In an environment defined by uncertainty and non-stationarity, resilience, adaptivity, and disciplined execution matter more than model complexity or initial alpha.
+
+
+📬 Contact
+
+Have questions or want a demo? Reach out at:
+
+📧 shreyassunil010@gmail.com
+
+🌐 LinkedIn Profile : https://www.linkedin.com/in/shreyas-sunil-2a44b2321/
